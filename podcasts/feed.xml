@@ -29,6 +29,7 @@
     <link>https://www.ematg.com/podcasts/feed.xml</link>
     <item>
       <author>EM@G</author>
+      <link>https://www.ematg.com</link>
       <guid isPermaLink="false">ep1</guid>
       <itunes:author>EM@G</itunes:author>
       <title>EM@G 谷歌工程经理开播啦！</title>
