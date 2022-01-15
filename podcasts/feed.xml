@@ -26,19 +26,18 @@
     <copyright>www.EMatG.com</copyright>
     <description>EM@G 聊大厂职场，职业辅导</description>
     <language>zh-cn</language>
-    <pubDate>Mon, 13 Apr 2022 13:00:00 PDT</pubDate>
     <link>https://www.ematg.com/podcasts/feed.xml</link>
     <item>
       <author>EM@G</author>
       <guid isPermaLink="false">ep1</guid>
       <itunes:author>EM@G</itunes:author>
       <title>EM@G 谷歌工程经理开播啦！</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
+      <pubDate>Sat, 15 Jan 2022 22:00:00 GMT</pubDate>
+      <enclosure url="https://www.ematg.com/podcasts/episodes/ep1/ep1.mp3" type="audio/mpeg" length="2830336" />
+      <itunes:duration>02:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <description>
-大家好, 这里是EM@G Engineering Manager @ Google!  我是在 Google 上班的一位软件工程经理或者叫技术经理 Engineering Manager @ Google 简称 EM@G. 开这个频道和大家分享一下在 Google, 这个世界最顶级科技公司, 这个免费给所有员工提供三餐和零食, 这个自带健身房甚至游泳池的公司里工作是什么样的体验, 有什么样的企业文化, 有什么样的外人不知的秘密? 都会在这个频道告诉你哦. 同时也跟大家分享一些大厂职场里的技巧, 怎样可以更好的准备顶级科技公司的面试. 教你怎么写CV, 教你分析招聘信息里的秘密, 怎样提高system design的能力，怎样和你的manager更好的沟通进而帮助你升职加薪。对这些话题有兴趣的话, 快去 ematg.com 关注我的频道, 助你进大厂, 拿大包, 发大财!
+大家好, 这里是EM@G Engineering Manager @ Google! 我是在 Google 上班的一位软件工程经理或者叫技术经理 Engineering Manager @ Google 简称 EM@G. 开这个频道和大家分享一下在 Google, 这个世界最顶级科技公司, 这个免费给所有员工提供三餐和零食, 这个自带健身房甚至游泳池的公司里工作是什么样的体验, 有什么特殊的企业文化, 有什么样的外人不知的趣事? 都会在这个频道告诉你哦. 同时也跟大家分享一些大厂职场里的技巧, 怎样可以更好的准备顶级科技公司的面试. 教你怎么写CV, 教你分析招聘信息里的秘密, 怎样提高system design的能力，怎样和你的manager更好的沟通进而帮助你升职加薪。对这些话题有兴趣的话, 快去 ematg.com 关注我的频道, 助你进大厂, 拿大包, 发大财!
       </description>
     </item>
   </channel>
