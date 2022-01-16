@@ -4,7 +4,13 @@ body {
 
 #banner {
   display: block;
-  margin: 30% 0 10%;
+  margin: 20% 0 0;
+}
+
+#wechat {
+  display: block;
+  width: 50%;
+  margin: 0 auto 5%;
 }
 
 .home-social {
@@ -22,6 +28,10 @@ body {
 @media (max-width: 600px) {
   .home-social li {
     display: block;
+  }
+
+  #wechat {
+    width: 100%;
   }
 }
 
