@@ -18,9 +18,9 @@ navbar-links:
     Blog: "/blog"
     Podcasts:
       - Google: ""
-      - Apple: ""
-      - Spotify: ""
-      - 小宇宙: ""
+      - Apple: "https://podcasts.apple.com/gb/podcast/em-g-podcasts-%E6%92%AD%E5%AE%A2/id1605407339"
+      - Spotify: "https://open.spotify.com/show/0DFToAGxqvfrtGRE8sSo0y"
+      - 小宇宙: "https://www.xiaoyuzhoufm.com/podcast/61e4126bb54d285407a095cc?s=eyJ1IjoiNjFlNDExZTUyY2JkN2MwMTc2ZjBkOGE1In0%3D"
     RSS: "/feed.xml"
     Contact: "mailto:info@ematg.com"
 #   About Me: "aboutme"
