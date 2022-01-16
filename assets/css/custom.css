@@ -10,7 +10,7 @@ body {
 #wechat {
   display: block;
   width: 50%;
-  margin: 0 auto 5%;
+  margin: 0 auto 1rem;
 }
 
 .home-social {
