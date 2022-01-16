@@ -13,7 +13,7 @@ Hello 大家好, 我是在 Google 上班的一位软件工程经理或者叫技�
 
 开这个频道和大家分享一下在 Google 工作的经验，大厂的职场技巧, 面试流程. 与上级同事的沟通方法，帮助你升职加薪，进大厂, 拿大包, 发大财!
 
-快来关注播客频道：
+快来关注我的播客频道：
 
 - [Google Podcasts]()
 - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/em-g-podcasts-%E6%92%AD%E5%AE%A2/id1605407339)
