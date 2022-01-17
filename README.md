@@ -4,8 +4,6 @@
 
 [![ematg.com](assets/img/banner.transparent.png)](https://www.ematg.com)
 
-[![微信公众号](/assets/img/wechat_qr_code.png)](/assets/img/wechat_qr_code.png)
-
 [![YouTube](assets/img/youtube.png)](https://www.youtube.com/channel/UCSgAZ-Po9gJt_L-8CCCH0uw)
 
 [![B站](assets/img/bili.png)](https://space.bilibili.com/506982501/video)
@@ -29,5 +27,7 @@
 [![小宇宙播客](assets/img/xiaoyuzhou-podcasts.png)](https://www.xiaoyuzhoufm.com/podcast/61e4126bb54d285407a095cc?s=eyJ1IjoiNjFlNDExZTUyY2JkN2MwMTc2ZjBkOGE1In0%3D)
 
 [![RSS](assets/img/rss.png)](https://www.ematg.com/feed.xml)
+
+[![微信公众号](/assets/img/wechat_qr_code.png)](https://www.ematg.com/wechat)
 
 </div>
