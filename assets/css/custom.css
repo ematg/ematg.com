@@ -72,3 +72,9 @@ body {
     background: #3b3737;
   }
 }
+
+@media (max-width: 450px) {
+  .powered-by {
+    display: none;
+  }
+}
