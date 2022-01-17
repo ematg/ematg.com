@@ -14,13 +14,14 @@ author: EM@G
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-    首页 Home: '/'
-    博客 Blog: "/blog"
-    播客 Podcasts:
+    首页: '/'
+    博客: "/blog"
+    播客频道:
       - Google: ""
       - Apple: "https://podcasts.apple.com/gb/podcast/em-g-podcasts-%E6%92%AD%E5%AE%A2/id1605407339"
       - Spotify: "https://open.spotify.com/show/0DFToAGxqvfrtGRE8sSo0y"
       - 小宇宙: "https://www.xiaoyuzhoufm.com/podcast/61e4126bb54d285407a095cc?s=eyJ1IjoiNjFlNDExZTUyY2JkN2MwMTc2ZjBkOGE1In0%3D"
+    微信公众号: "/wechat"
     联系我们: "mailto:info@ematg.com"
     RSS: "/feed.xml"
 #   About Me: "aboutme"
