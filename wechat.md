@@ -1,5 +1,5 @@
 ---
-layout: post-custom
+layout: page-custom
 title: 微信公众号
 subtitle: 微信扫描QR码 或 微信内搜索 "工程经理atG"
 comments: true
