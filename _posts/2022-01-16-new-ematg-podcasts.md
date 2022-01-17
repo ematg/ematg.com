@@ -7,6 +7,7 @@ thumbnail-img: /blog/new-ematg-podcasts/thumb.png
 share-img: /blog/new-ematg-podcasts/thumb.jpg
 tags: [podcasts]
 comments: true
+head-extra: adsense.html
 ---
 
 Hello 大家好, 我是在 Google 上班的一位软件工程经理或者叫技术经理 Engineering Manager @ Google 简称 EM@G.
