@@ -12,18 +12,26 @@ title: EM@G 谷歌工程经理
 author: EM@G
 
 # --- List of links in the navigation bar --- #
-
 navbar-links:
     首页: '/'
-    博客: "/blog"
-    播客频道:
-      - Google: ""
-      - Apple: "https://podcasts.apple.com/gb/podcast/em-g-podcasts-%E6%92%AD%E5%AE%A2/id1605407339"
-      - Spotify: "https://open.spotify.com/show/0DFToAGxqvfrtGRE8sSo0y"
-      - 小宇宙: "https://www.xiaoyuzhoufm.com/podcast/61e4126bb54d285407a095cc?s=eyJ1IjoiNjFlNDExZTUyY2JkN2MwMTc2ZjBkOGE1In0%3D"
-    微信公众号: "/wechat"
-    联系我们: "mailto:info@ematg.com"
-    RSS: "/feed.xml"
+    看视频:
+      - 油管: "/videos/youtube"
+      - B站: "/videos/bilibili"
+      - 抖音: "/videos/douyin"
+      - 西瓜: "/videos/xigua"
+    读博客:
+      - 最新原文: "/blog"
+      - CSDN: "/blog/csdn"
+      - Medium: "/blog/medium"
+      - 微博: "/blog/weibo"
+      - RSS: "/feed.xml"
+    听播客:
+      - 谷歌: "/podcasts/google"
+      - 苹果: "/podcasts/apple"
+      - Spotify: "/podcasts/spotify"
+      - 小宇宙: "/podcasts/xiaoyuzhou"
+    公众号: "/wechat"
+    联系: "mailto:info@ematg.com"
 #   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -262,6 +270,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

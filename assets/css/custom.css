@@ -4,7 +4,7 @@ body {
 
 #banner {
   display: block;
-  margin: 20% 0 0;
+  margin: 15% 0 0;
 }
 
 #wechat {
@@ -25,6 +25,14 @@ body {
   padding: 0.4em 0.5em;
 }
 
+.home-podcasts {
+  margin-bottom: 2rem;
+}
+
+.home-podcasts-mobile {
+  display: none;
+}
+
 @media (max-width: 600px) {
   .home-social li {
     display: block;
@@ -32,6 +40,14 @@ body {
 
   #wechat {
     width: 100%;
+  }
+
+  .home-podcasts {
+    display: none;
+  }
+
+  .home-podcasts-mobile {
+    display: block;
   }
 }
 
