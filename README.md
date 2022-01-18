@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![ematg.com](assets/img/banner.transparent.png)](https://www.ematg.com)
+[![ematg.com](assets/img/banner.transparent.png)](https://www.ematg.com/blog)
 
 [![YouTube](assets/img/youtube.png)](https://www.ematg.com/videos/youtube)
 
