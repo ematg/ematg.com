@@ -1,44 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>EM@G Podcasts | 播客</title>
-    <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>London</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>EM@G</author>
     <image>
       <url>https://www.ematg.com/podcasts/logo.png</url>
-      <title>EM@G 谷歌工程经理</title>
+      <title>EM@G Podcasts | 播客</title>
       <link>https://www.ematg.com</link>
     </image>
     <itunes:author>EM@G</itunes:author>
-    <itunes:email>info@ematg.com</itunes:email>
     <itunes:category text="Technology" />
     <itunes:owner>
       <itunes:name>EM@G</itunes:name>
       <itunes:email>info@ematg.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>google,谷歌,EM@G,工程经理,职业辅导,职场,career coaching</itunes:keywords>
+    <itunes:keywords>google,谷歌,EM@G,工程经理,职业辅导,职场,career coaching,经验</itunes:keywords>
     <itunes:image href="https://www.ematg.com/podcasts/logo_1400.png" />
     <itunes:explicit>no</itunes:explicit>
-    <googleplay:author>EM@G</googleplay:author>
-    <googleplay:image href="https://www.ematg.com/podcasts/logo.png" />
     <copyright>www.EMatG.com</copyright>
-    <description>EM@G 跟你聊聊科技大厂的职场经验，给你做职业辅导</description>
+    <description>EM@G 跟你聊聊科技大厂的职场经验，帮你了解面试流程，更多频道关注 www.ematg.com</description>
     <language>zh-cn</language>
-    <link>https://www.ematg.com/podcasts/feed.xml</link>
+    <link>https://www.ematg.com</link>
     <item>
-      <author>EM@G</author>
+      <title>EM@G 谷歌工程经理开播啦！</title>
+      <enclosure url="https://www.ematg.com/podcasts/episodes/ep1/ep1.mp3" type="audio/mpeg" length="2830336" />
       <link>https://www.ematg.com</link>
       <guid isPermaLink="false">ep1</guid>
       <itunes:author>EM@G</itunes:author>
-      <title>EM@G 谷歌工程经理开播啦！</title>
       <pubDate>Sat, 15 Jan 2022 22:00:00 GMT</pubDate>
-      <enclosure url="https://www.ematg.com/podcasts/episodes/ep1/ep1.mp3" type="audio/mpeg" length="2830336" />
       <itunes:duration>02:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <description>
