@@ -18,7 +18,7 @@
 
 [![CSDN](assets/img/csdn.png)](https://www.ematg.com/blog/csdn)
 
-<!-- [![Google Podcasts](assets/img/google-podcasts.png)](https://www.ematg.com/podcasts/google) -->
+[![Google Podcasts](assets/img/google-podcasts.png)](https://www.ematg.com/podcasts/google)
 
 [![Apple Podcasts](assets/img/apple-podcasts.png)](https://www.ematg.com/podcasts/apple)
 

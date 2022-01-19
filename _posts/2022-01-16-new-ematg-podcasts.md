@@ -18,7 +18,7 @@ Hello 大家好, 我是在 Google 上班的一位软件工程经理或者叫技�
 
 快来关注播客频道：
 
-<!-- [![Google Podcasts](/blog/new-ematg-podcasts/google-podcasts.png){: .mx-auto.d-block :}](https://www.ematg.com) -->
+[![Google Podcasts](/blog/new-ematg-podcasts/google-podcasts.png){: .mx-auto.d-block :}](https://www.ematg.com)
 
 [![Apple Podcasts](/blog/new-ematg-podcasts/apple-podcasts.png){: .mx-auto.d-block :}](https://podcasts.apple.com/gb/podcast/em-g-podcasts-%E6%92%AD%E5%AE%A2/id1605407339)
 
