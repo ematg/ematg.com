@@ -26,7 +26,7 @@ navbar-links:
       - 微博: "/blog/weibo"
       - RSS: "/feed.xml"
     听播客:
-#      - 谷歌: "/podcasts/google"
+      - 谷歌: "/podcasts/google"
       - 苹果: "/podcasts/apple"
       - Spotify: "/podcasts/spotify"
       - 小宇宙: "/podcasts/xiaoyuzhou"
